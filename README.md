@@ -3,12 +3,12 @@
 <h1>Personal Portfolio Website - v0.2.0</h1>
 
 <h2>
-  <a href="https://pranaygupta.in/">pranaygupta.in</a>
+  <a href="https://jatinchanyal.in/">jatinchanyal.in</a>
 </h2>
 
 <div align="center">
-  <a href="https://pranaygupta.in/">
-    <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
+  <a href="https://jatinchanyal.in/">
+    <img alt="Mockup" src="assets/img/Portfoilio_Frontpage.png" />
   </a>
 </div>
 
