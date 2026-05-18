@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://github.com/thepranaygupta/thepranaygupta.github.io"><img src="https://sloc.xyz/github/thepranaygupta/thepranaygupta.github.io" alt="Total lines"></a>
+<a href="https://github.com/JatinChanyal/JatinChanyalHub.github.io"><img src="https://sloc.xyz/github/JatinChanyal/JatinChanyalHub.github.io" alt="Total lines"></a>
 <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=thepranaygupta/thepranaygupta.github.io" alt="Number of Visitors"></a>
 <a href="https://github.com/thepranaygupta/thepranaygupta.github.io/stargazers"><img src="https://img.shields.io/github/stars/thepranaygupta/thepranaygupta.github.io" alt="github stars"></a>
 <a href="https://github.com/thepranaygupta/thepranaygupta.github.io/ne"><img src="https://img.shields.io/github/forks/thepranaygupta/thepranaygupta.github.io" alt="github forks"></a>
